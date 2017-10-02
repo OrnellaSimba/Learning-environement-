@@ -1,0 +1,29 @@
+body{
+  background-color: lightblue ;
+}
+h1{
+ color: darkgrey;
+ font-size: 45px;
+ text-decoration: underline;
+}
+.blockelements{
+  color: darkgrey;
+  font-style: oblique;
+}
+#logo{
+  float: right;
+}
+h2, h4 {
+  color: black;
+  font-style: normal;
+  font-size: 23px;
+  text-decoration: underline;
+  text-decoration-style: light;
+
+}
+*{
+  font-family: sans-serif;
+}
+*{
+  text-align: center;
+}
