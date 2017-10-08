@@ -1,0 +1,56 @@
+body{
+background-color: white
+}
+
+.grand-père{
+  background-color: grey;
+  position: fixed;
+  top: 0px;
+}
+
+.père{
+  background-color: lightgrey;
+  height: 60px;
+  width: 1200px;
+  position: relative;
+}
+
+.logo{
+  height:60px;
+  width: 80px;
+  position: absolute;
+}
+
+.fille{
+  background-color: whitesmoke;
+  position: relative;
+  font-size: 15px;
+  width: 80px;
+  top: 20px;
+  left: 55px;
+  border-right: 5px solid black;
+}
+p{
+  text-align: center;
+}
+
+.slider{
+top: 100px;
+}
+
+.img1{
+  height:75%;
+  widht:60%;
+  margin-top: 80px;
+  margin-left: 75px;
+}
+
+.texte-img{
+  font-size: 20px;
+  margin-top: -250px;
+  margin-left: 585px;
+  letter-spacing: 0.5em;
+  background-color: whitesmoke;
+  border-left: 5px solid black;
+  position: absolute;
+}
